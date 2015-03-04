@@ -1,9 +1,14 @@
 exit-dialog
 ===========
 
-Exit dialog for debian using Ruby-GNOME2.
+Exit dialog for Debian using Ruby-GNOME2. Nice complement for a minimal desktop environment in a debian base linux distribution.
 
-Based on [cb-exit][1].
+Based on [Crunchbang linux][3] exit dialog. Source here: [cb-exit][1]
+
+## Requirements
+
+* Python
+* ...
 
 ## Python version
 
@@ -32,3 +37,4 @@ limitations under the License.
 
 [1]:https://github.com/super-nathan/cb-exit
 [2]:https://github.com/Miguelos/pyexit
+[3]:http://crunchbang.org/
