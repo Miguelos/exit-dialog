@@ -5,7 +5,7 @@ Exit dialog for debian using Ruby-GNOME2.
 
 Based on [cb-exit][1].
 
-# Python version
+## Python version
 
 [pyexit][2]
 
@@ -13,7 +13,7 @@ Based on [cb-exit][1].
 
 [![endorse](http://api.coderwall.com/miguelos/endorsecount.png)](http://coderwall.com/miguelos)
 
-# License
+## License
 
 Copyright 2012 Square, Inc.
 
